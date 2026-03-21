@@ -3,7 +3,7 @@
 🚀 Full-Stack Developer | PHP | Laravel | Node.js | React
 <div align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </div>
 🌟 About Me <br>
-🔹 2+ years of experience as a Backend Developer with expertise in PHP, Laravel, CodeIgniter, and Node.js.<br>
+🔹 3 years of experience as a Backend Developer with expertise in PHP, Laravel, CodeIgniter, and Node.js.<br>
 🔹 Passionate about building scalable applications, REST APIs, and full-stack solutions.<br>
 🔹 Experienced in frontend technologies like React.js, HTML, CSS, JavaScript, Tailwind, and Bootstrap.<br>
 🔹 Skilled in database management using MySQL and MongoDB.<br>
