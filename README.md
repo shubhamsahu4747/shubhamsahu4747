@@ -105,35 +105,7 @@ My core expertise includes backend architecture, REST API development, authentic
 * Git-Based Collaboration
 * Production Application Debugging
 
----
-
-## Professional Experience
-
-### Full-Stack Developer
-
-**CISIT Solutions Pvt. Ltd.**
-January 2025 – Present | Noida, India
-
-* Developed enterprise-grade SaaS applications using MERN stack, Next.js, PostgreSQL, MongoDB, Redis, and AWS.
-* Built authorization, RBAC, tenant management, dashboards, and user workflow modules.
-* Designed multi-tenant architecture with tenant-level data isolation for secure multi-client workspaces.
-* Integrated Redis caching for sessions and frequently accessed data to reduce repeated database calls.
-* Managed production deployments using AWS EC2, S3, Lambda, Docker, Nginx, and Linux servers.
-
-### Senior Backend Developer
-
-**Safety Circle Pvt. Ltd.**
-January 2023 – January 2025 | Chandigarh, India
-
-* Developed backend systems for 4+ enterprise applications using Laravel, CodeIgniter, PHP, MySQL, and JavaScript.
-* Built REST APIs for web and mobile applications covering authentication, role management, reporting, and dashboards.
-* Implemented ADFS authentication and RBAC workflows for enterprise-level user access management.
-* Optimized MySQL queries, indexes, and reporting workflows to improve backend performance.
-* Delivered audit, reporting, dashboard, user management, and access-control modules for enterprise clients.
-
----
-
-## Featured Projects
+# Featured Projects
 
 ### Fesensi — Multi-Tenant SaaS Platform
 
