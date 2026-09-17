@@ -4,7 +4,9 @@
 
 I am a Full-Stack Developer with 3+ years of experience building scalable web applications, enterprise backend systems, and multi-tenant SaaS platforms. I have contributed to 15+ production applications across SaaS, e-commerce, audit management, compliance systems, and enterprise workflow solutions.
 
-My core expertise includes backend architecture, REST API development, authentication, authorization, RBAC, database optimization, cloud deployment, and performance-driven application development.
+My core expertise includes backend architecture, REST API development, authentication and authorization, RBAC, database design and optimization, Redis caching, cloud deployment, and production application development.
+
+I also have hands-on experience with AWS, Docker, CI/CD, and AI-powered application workflows using Node.js, n8n, and LLM APIs.
 
 ---
 
