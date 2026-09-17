@@ -1,6 +1,6 @@
 # Shubham Sahu
 
-## Full-Stack Developer | Backend-Focused | Laravel | Node.js | React | Next.js
+## Full-Stack Developer | Backend-Focused | Laravel | Node.js | React | AI & Automation
 
 I am a Full-Stack Developer with 3+ years of experience building scalable web applications, enterprise backend systems, and multi-tenant SaaS platforms. I have contributed to 15+ production applications across SaaS, e-commerce, audit management, compliance systems, and enterprise workflow solutions.
 
@@ -68,10 +68,10 @@ My core expertise includes backend architecture, REST API development, authentic
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br>
 <b>React.js</b>
 </td>
-<td align="center" width="120">
+<!-- <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/><br>
 <b>Next.js</b>
-</td>
+</td> -->
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/><br>
 <b>Tailwind CSS</b>
@@ -136,6 +136,33 @@ My core expertise includes backend architecture, REST API development, authentic
 </td>
 </tr>
 </table>
+
+### AI & Automation
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/n8n" width="42" alt="n8n"/><br>
+<b>n8n</b>
+</td>
+
+<!-- <td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" width="42" alt="Vercel"/><br>
+<b>Vercel AI SDK</b>
+</td> -->
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlegemini.svg" width="42" alt="Gemini"/><br>
+<b>Gemini</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/openai-icon.png" width="42" alt="OpenAI"/><br>
+<b>OpenAI</b>
+</td>
+</tr>
+</table>
+
 
 ### Tools & Platforms
 
@@ -227,4 +254,4 @@ Great Ganges Institute of Technology | 2022
 
 ## Current Focus
 
-I am currently focused on building scalable backend systems, improving system design skills, strengthening DSA fundamentals, and developing production-ready SaaS and enterprise applications.
+I am currently focused on building scalable backend systems, strengthening system design and DSA fundamentals, and exploring AI engineering through LLM-powered applications, AI SDKs, workflow automation, and production-ready SaaS systems.
